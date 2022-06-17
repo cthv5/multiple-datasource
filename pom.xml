@@ -19,7 +19,7 @@
         <mybatis.plus.version>3.1.1</mybatis.plus.version>
         <druid.version>1.1.10</druid.version>
         <oracle.connector.version>11.2.0.1.0</oracle.connector.version>
-        <fastjson.version>1.2.5</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
 	</properties>
 
 	<dependencies>
